@@ -1,0 +1,36 @@
+# Project
+build
+.openzeppelin
+
+# Common
+.env
+local/
+
+# Logs
+logs
+*.log
+logfile
+npm-debug.log*
+yarn-debug.log*
+lerna-debug.log*
+yarn-error.log*
+lerna-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+package-lock.json
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Operating System
+.DS_Store
+
+.openzeppelin/.session
